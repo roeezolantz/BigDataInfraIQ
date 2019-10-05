@@ -8,6 +8,12 @@ Interview questions for Big Data Infrastructure team leader recruitment
 3. Tell about 2~3 interesting processes that you were part of or lead by you
 4. How would you describe yourself? As the technical guy or the teorethical guy?
 
+## Technical - Infrastructures
+1. What was the OS on your servers?
+	1. Windows
+	2. Linux - RHEL / Ubuntu?
+2. Have you ever installed a fully production cluster?
+
 ## Culture
 
 1. What are your DoDs and how did you achieved them?
@@ -17,7 +23,7 @@ Interview questions for Big Data Infrastructure team leader recruitment
 	4. Documentations?
 	5. Optimizations
 
-## Technical
+## Technical - Big Data
 
 1. Tell about 2~3 significant challenges that you faced and how you solved them 
 	(This will expose the level of the team he was part of, and how deep they dived into what they did)
@@ -36,4 +42,3 @@ Interview questions for Big Data Infrastructure team leader recruitment
 	1. Scala?
 	2. Python?
 	3. Ansible?
-	
